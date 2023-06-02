@@ -1,0 +1,11 @@
+int fi(){
+bool xex=true;
+}
+void main()
+{
+fi();
+int a=1;
+if (a==true){
+a=2;
+}
+}
